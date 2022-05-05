@@ -213,6 +213,24 @@ body {
     }
 }
 
+.events {
+
+    .item-event {
+        border: 2px solid $lildarpurple;
+        border-radius: 8px;
+        margin-bottom: 20px;
+
+        .pamflet-image {
+            width: 100%;
+            height: 302px;
+
+            background-position: center;
+            background-size: cover;
+            background-repeat: no-repeat;
+        }
+    }
+}
+
 .text-green {
     color: $green !important;
 }

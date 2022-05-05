@@ -11061,6 +11061,19 @@ body {
   color: #211B3D;
 }
 
+.events .item-event {
+  border: 2px solid #5B5575;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+.events .item-event .pamflet-image {
+  width: 100%;
+  height: 302px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 .text-green {
   color: #31B380 !important;
 }
